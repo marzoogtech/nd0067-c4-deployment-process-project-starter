@@ -1,8 +1,10 @@
 # Pipline:
 ## Overview:
+![](./diagrams/Untitled%20Diagram.png)
 1. Developer push code to Github.
 2. CircleCI notice the chages.
 3. CircleCI trigger the pipeline.
+
 
 ## Screenshots
 
